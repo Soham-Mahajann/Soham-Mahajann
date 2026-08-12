@@ -45,5 +45,5 @@
 
 <div align="center">
   
-### ✨*“From code to cloud — building, automating, and deploying one step at a time.”*
+### ✨“From code to cloud — building, automating, and deploying one step at a time.”
 
