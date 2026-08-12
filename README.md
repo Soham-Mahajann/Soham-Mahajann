@@ -30,3 +30,20 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-j-shaikh/)
+[![Email](https://img.shields.io/badge/Email-sohamsanjaymahajann@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamsanjaymahajann@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ *“Learning by building — one container, one pipeline, one deployment at a time.”*
+
