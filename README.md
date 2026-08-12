@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afroz-j-shaikh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-mahajan06/)
 [![Email](https://img.shields.io/badge/Email-sohamsanjaymahajann@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamsanjaymahajann@gmail.com)
 
 </div>
