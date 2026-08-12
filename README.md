@@ -31,12 +31,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-Narkhede&hide=TeX&layout=compact)
-
-
-                 
-                  
-                  
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Anup-Narkhede.visitor-badge)
