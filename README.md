@@ -1,3 +1,151 @@
+# Hi, I'm Soham Mahajan 👋
+
+### Cloud & DevOps Engineer
+
+Building scalable cloud infrastructure and automating reliable deployments.
+
+I'm currently building my foundation in **Cloud Computing and DevOps**, with a focus on AWS, Linux, networking, version control, containerization, CI/CD, and Kubernetes.
+
+---
+
+## ☁️ About Me
+
+- 🎓 Final-year **Information Technology** student
+- ☁️ Focused on **Cloud Computing & DevOps**
+- 🐧 Building strong foundations in **Linux & Networking**
+- 🔧 Learning and working with **AWS, Docker, GitHub Actions & Kubernetes**
+- 🚀 Interested in **Cloud Infrastructure, Automation & CI/CD**
+- 📚 Continuously learning through hands-on projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Cloud
+- AWS
+
+### DevOps
+- Docker
+- GitHub Actions
+- Kubernetes
+
+### Operating Systems & Networking
+- Linux
+- Computer Networking
+
+### Version Control
+- Git
+- GitHub
+
+### Programming
+- Python
+- C++
+
+---
+
+## 🚀 Featured Projects
+
+> Projects will be added here as I build and deploy them.
+
+### ☁️ Cloud Projects
+Hands-on projects focused on AWS infrastructure, services, networking, and deployment.
+
+### 🐳 DevOps Projects
+Projects involving Docker, CI/CD, automation, and deployment workflows.
+
+### 🌐 Web & Other Projects
+Selected development projects demonstrating programming and problem-solving skills.
+
+---
+
+## 📚 Currently Learning
+
+- AWS Cloud Infrastructure
+- Linux Administration
+- Docker & Containerization
+- GitHub Actions & CI/CD
+- Kubernetes
+- Infrastructure as Code
+- Cloud Networking
+
+---
+
+## 🎯 My Goal
+
+To build strong practical skills in **Cloud & DevOps** and become capable of designing, deploying, and automating reliable cloud infrastructure.
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/)
+- 🌐 Portfolio — Coming Soon
+- 📧 Email — Available on request
+
+---
+
+⭐ **Learning → Building → Automating → Deploying**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <html>
 <div align="center">
    <h1>Namaste!  I'm Soham</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
