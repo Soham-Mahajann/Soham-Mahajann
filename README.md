@@ -6,10 +6,6 @@
 </div>
 </html>
 
-<div>
-<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
- <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/output-onlinegiftools+(1).gif" width="350" height="350">
-
 ### Cloud & DevOps Engineer
 
 Building scalable cloud infrastructure and automating reliable deployments.
